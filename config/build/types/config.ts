@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 3abcf844f842916b4b4c8f6f8bce01e2604c0a4c
 export type BuildMode = 'production' | 'development';
 
 export interface BuildPaths {
