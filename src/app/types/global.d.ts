@@ -5,6 +5,7 @@ declare module '*.scss' {
     const classNames: IClassNames;
     export = classNames;
 }
+<<<<<<< HEAD
 
 declare module '*.png';
 declare module '*.jpg';
@@ -17,3 +18,5 @@ declare module '*.svg' {
 }
 
 declare const __IS_DEV__: boolean;
+=======
+>>>>>>> 3abcf844f842916b4b4c8f6f8bce01e2604c0a4c
